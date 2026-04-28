@@ -1,0 +1,27 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Local-only backups and installation caches
+pi_backup/
+*.tar
+*.tar.gz
+offline-packages/
+pip_install/
+miniconda3/
+.cache/
+.config/
+
+# Large local media not curated for this repository
+*.mp4
+*.mov
+*.avi

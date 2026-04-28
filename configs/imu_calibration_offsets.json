@@ -1,0 +1,6 @@
+﻿{
+  "source": "E:/Duck/pi_backup/pi_backup/Open_Duck_Mini_Runtime-2/mini_bdx_runtime/mini_bdx_runtime/imu_calib_data.pkl",
+  "offsets_accelerometer": [-32576, -142, 163],
+  "offsets_gyroscope": [-1, -2, -1],
+  "offsets_magnetometer": [-309, 161, 305]
+}
